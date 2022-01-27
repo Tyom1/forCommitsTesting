@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/jsbroks/auto-changelog/compare/v1.2.3...v1.3.0) (2022-01-27)
+
+
+### Features
+
+* add more styles for good mood ([ef0c4c4](https://github.com/jsbroks/auto-changelog/commit/ef0c4c480e3d7bdedf4b9b9d94600f27650968d3))
+
 ### [1.2.3](https://github.com/jsbroks/auto-changelog/compare/v1.2.2...v1.2.3) (2022-01-27)
 
 ### [1.2.2](https://github.com/jsbroks/auto-changelog/compare/v1.2.1...v1.2.2) (2022-01-27)
