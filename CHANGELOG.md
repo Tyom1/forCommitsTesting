@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/jsbroks/auto-changelog/compare/v1.3.0...v2.0.0) (2022-01-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* add margin for body true working
+
+### Features
+
+* add margin for body true working ([6415143](https://github.com/jsbroks/auto-changelog/commit/64151439285470270f6d725db4138d249c911424))
+
 ## [1.3.0](https://github.com/jsbroks/auto-changelog/compare/v1.2.3...v1.3.0) (2022-01-27)
 
 
